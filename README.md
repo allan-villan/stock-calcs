@@ -12,7 +12,7 @@
 <img width="549" alt="marketvol DAG graph" src="https://user-images.githubusercontent.com/84660320/185814119-e2d0e3a5-8213-4282-843d-d7cc673dc413.png">
 
 ### Grid graph:
-<img width="440" alt="Screen Shot 2022-08-23 at 2 45 01 PM" src="https://user-images.githubusercontent.com/84660320/186272496-9990ad86-76af-4637-9584-fe8742d1f770.png">
+<img width="445" alt="Screen Shot 2022-08-25 at 12 24 37 PM" src="https://user-images.githubusercontent.com/84660320/186751169-219823ed-825f-4410-9245-0ca5eada8aff.png">
 
 ### 2022 Calendar (Only August):
 <img width="434" alt="Screen Shot 2022-08-23 at 3 13 49 PM" src="https://user-images.githubusercontent.com/84660320/186275599-d496afc5-cde1-4730-94ed-407e0d2a9c5f.png">
