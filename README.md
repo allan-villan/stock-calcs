@@ -13,10 +13,10 @@
 - pandas: 1.4.3
 
 ### DAG graph:
-<img width="549" alt="marketvol DAG graph" src="https://user-images.githubusercontent.com/84660320/185814119-e2d0e3a5-8213-4282-843d-d7cc673dc413.png">
+<img width="615" alt="Screen Shot 2022-09-03 at 11 53 44 AM" src="https://user-images.githubusercontent.com/84660320/188284417-fb2f118c-2609-4a09-a1e0-0ccb3d196743.png">
 
 ### Grid graph:
-<img width="615" alt="Screen Shot 2022-09-03 at 11 53 44 AM" src="https://user-images.githubusercontent.com/84660320/188284417-fb2f118c-2609-4a09-a1e0-0ccb3d196743.png">
+<img width="441" alt="Screen Shot 2022-09-03 at 5 10 35 PM" src="https://user-images.githubusercontent.com/84660320/188291495-87b83899-4341-41bb-8d89-17ef241c4552.png">
 
 ### 2022 Calendar (Only August):
 <img width="434" alt="Screen Shot 2022-08-23 at 3 13 49 PM" src="https://user-images.githubusercontent.com/84660320/186275599-d496afc5-cde1-4730-94ed-407e0d2a9c5f.png">
