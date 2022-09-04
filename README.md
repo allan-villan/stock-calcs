@@ -2,17 +2,21 @@
 > Downloads stock data using the yfinance library and performs calculations on it, using Apache Airflow to manage workflows set to download at 2PM PST every weekday.
 
 ## Requirements:
-- Python version: 3.10.4
+- Python: 3.10.4
 
-- Airflow version: 2.3.3
+- Airflow: 2.3.3
 
-- ta version: 0.10.2
+- ta: 0.10.2
+
+- yfinance: 0.1.74
+
+- pandas: 1.4.3
 
 ### DAG graph:
 <img width="549" alt="marketvol DAG graph" src="https://user-images.githubusercontent.com/84660320/185814119-e2d0e3a5-8213-4282-843d-d7cc673dc413.png">
 
 ### Grid graph:
-<img width="445" alt="Screen Shot 2022-08-25 at 12 24 37 PM" src="https://user-images.githubusercontent.com/84660320/186751169-219823ed-825f-4410-9245-0ca5eada8aff.png">
+<img width="615" alt="Screen Shot 2022-09-03 at 11 53 44 AM" src="https://user-images.githubusercontent.com/84660320/188284417-fb2f118c-2609-4a09-a1e0-0ccb3d196743.png">
 
 ### 2022 Calendar (Only August):
 <img width="434" alt="Screen Shot 2022-08-23 at 3 13 49 PM" src="https://user-images.githubusercontent.com/84660320/186275599-d496afc5-cde1-4730-94ed-407e0d2a9c5f.png">
